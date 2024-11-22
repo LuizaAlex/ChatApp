@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540836229806",
+    "project_id": "whatsapp-clo-461b7",
+    "storage_bucket": "whatsapp-clo-461b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540836229806:android:38560f839e845eeef7733f",
+        "android_client_info": {
+          "package_name": "com.luiza.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBugn9gFABrgvo93QGeqataTgpjOxm8T8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
